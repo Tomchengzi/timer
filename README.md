@@ -124,6 +124,5 @@ MIT License
 
 ---
 
-**开发者:** [Your Name]  
-**联系方式:** [Your Email]  
-**项目地址:** [Repository URL]
+**开发者:** [Red_Dusk]  
+**联系方式:** [留言即可]  
